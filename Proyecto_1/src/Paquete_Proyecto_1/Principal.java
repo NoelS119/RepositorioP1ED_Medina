@@ -10,9 +10,7 @@ public class Principal {
 		
 		
 		System.out.println("Le tronk estuvo aquí");
-		
-		
-		System.out.println("Le tronk estuvo aquí otra vez");
+
 	}
 
 }
